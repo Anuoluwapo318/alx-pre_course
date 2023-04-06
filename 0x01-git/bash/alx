@@ -1,15 +1,4 @@
-#!/bin/bash#!/bin/bash
+#!/bin/bash
 echo "ALX School is so cool!"
+echo "ALX" School''
 
-
-c
-ls
-echo "ALX"
-root@7d693cf65df6:/alx-pre_course/0x01-git/bash# cat > alx
-#!/bin/bash#!/bin/bash
-root@7d693cf65df6:/alx-pre_course/0x01-git/bash#ls
-root@7d693cf65df6:/alx-pre_course/0x01-git/bash# ls
-
-
-
-root@7d693cf65df6:/alx-pre_course/0x01-git# cd bash 
